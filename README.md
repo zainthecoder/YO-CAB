@@ -14,8 +14,8 @@
 - MySql
 - Wamp Local Host
 
+## *ScreenShots From the WebApp
+
+![image](https://user-images.githubusercontent.com/23193284/50265672-9d03bb00-0446-11e9-9b23-e6a0d2701eaa.png)
 
 
-
-View this presentation to have a better understanding of the project.
-https://docs.google.com/presentation/d/17knZ1TuxvfxIgEFm289Uo1sFWOiCPOPf_aA0aw9726E/edit?usp=sharing
